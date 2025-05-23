@@ -1,0 +1,8 @@
+-  Hi, I’m @Mchinku1
+-  - 👨‍🎓 I’m an IT student with a passion for tech and problem-solving.
+   - - 👀 I’m interested in web development, networking, and cybersecurity.
+     - - 🌱 I’m currently learning Java, data structures, Git & GitHub, and web technologies.
+       - - 💞️ I’m looking to collaborate on student projects, hackathons, or beginner-friendly open-source contributions.
+         - - 📫 How to reach me: [ mchinku787@gmail.com]
+           - - 😄 Pronouns: [He]
+             - - ⚡ Fun fact: I love tech memes and can fix a Wi-Fi issue faster than I find my sock
